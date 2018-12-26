@@ -1,5 +1,15 @@
 package application;
 
+/*
+Design a JavaFX program to calculate amount that a user need to pay for movie tickets. Given the detail of the movie ticket as below. You are flexible to design your own JavaFX interface.
+Price and discount
+Adult RM12.00/pc
+Kid RM8.00/pc
+Quantity more than 5 tickets discount 5%
+Quantity more than 10 tickets discount 10%
+
+*/
+
 import javafx.application.Application;
 import javafx.collections.*;
 import javafx.event.ActionEvent;
