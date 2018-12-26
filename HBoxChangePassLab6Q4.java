@@ -1,5 +1,9 @@
 package application;
-
+/*
+Develop a JavaFX program to allow the user to change their password. 
+You are flexible to design your own JavaFX interface (the below GUI just 
+serve as an example).
+*/
 import javafx.application.Application;
 import javafx.collections.ObservableList;
 import javafx.event.*;
