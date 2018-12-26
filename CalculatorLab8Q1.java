@@ -1,5 +1,11 @@
 package application;
+/*Write a program that let the user enter the integer number and math operator (+, -, /, x) text fields, and 
+it should display math table in a text area as shown in Figure below.
 
+setText();
+appendText();
+
+*/
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
