@@ -1,3 +1,10 @@
+/*
+Write a JavaFX program that prompts a user to input in cm (1 text field) and 
+output in meter, feet and inches (3 text fields). 
+You are flexible to design your own JavaFX interface. 
+Sample JavaFX interface and outputs as below:
+*/
+
 package application;
 
 import javafx.application.Application;
