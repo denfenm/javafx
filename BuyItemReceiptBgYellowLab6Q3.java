@@ -1,3 +1,7 @@
+/*Develop a JavaFX program to act as a cashier machine for 88 Hypermarket Sdn. Bhd. 
+You are flexible to design your own JavaFX interface (the below GUI just serve as 
+an example).
+*/
 package application;
 import javafx.application.Application;
 import javafx.collections.ObservableList;
