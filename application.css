@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button{
+	-fx-background-color: black;
+	-fx-text-fill: green;
+}
+
+.label{-fx-font: normal bold 25px 'serif'}
