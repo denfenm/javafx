@@ -1,5 +1,9 @@
 package application;
-
+/*
+1.	Write a program that draws various figures, as shown in Figure below. The user selects a figure 
+from a radio button and uses a 
+check box to specify whether it is filled.
+*/
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
