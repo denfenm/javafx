@@ -1,5 +1,9 @@
 package application;
-
+/*
+1.	Write a GUI program as shown in Figure below. You can use buttons to move the message to the 
+left and right and use the radio
+buttons to change the color for the message displayed.
+*/
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
